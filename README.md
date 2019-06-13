@@ -23,6 +23,6 @@ $git clone https://github.com/angui100/ML_TensorFlow_Workshop.git
 ### Run Jupyter Notebook
 $jupyter Notebook
 
-### Open the Notbook file by double clicking I_love_my_cats_dogs.ipynb
+### Open the Notbook file by double clicking I_love_my_cats_dogs.ipynb.
 
-### We will go through the cell by cell running this program
+### We will go through the cell by cell running this program.
