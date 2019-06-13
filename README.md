@@ -25,4 +25,4 @@ $jupyter Notebook
 
 ### Open the Notebook file by double clicking I_love_my_cats_dogs.ipynb.
 
-### We will go through the cell by cell running this program.
+### We will go through cell by cell running this program.
