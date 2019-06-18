@@ -25,4 +25,6 @@ $jupyter Notebook
 
 ### Open the Notebook file by double clicking I_love_my_cats_dogs.ipynb.
 
+### We strong recommand you to create a google colab account to run our workshop program. https://colab.research.google.com/
+
 ### We will go through cell by cell running this program.
